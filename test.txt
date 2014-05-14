@@ -2,3 +2,4 @@ hogehoge
 higehgie
 
 conflict surukana
+conflict test
