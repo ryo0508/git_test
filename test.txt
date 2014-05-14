@@ -1,12 +1,4 @@
 hogehoge
 higehgie
 
-conflict surukana
-conflict test
-
-conflict saseru
-conflict shitayo
-
-conflict conflict
-
-conflict
+conflict 2
